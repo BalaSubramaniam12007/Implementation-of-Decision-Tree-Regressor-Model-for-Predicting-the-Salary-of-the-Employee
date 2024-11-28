@@ -50,7 +50,6 @@ dt.predict([[5,6]])
 ## Output:
 
 ![Screenshot 2024-11-28 220529](https://github.com/user-attachments/assets/4b7632a0-0623-4ddf-bd42-3a1510ca16bf)
-![Screenshot 2024-11-28 220513](https://github.com/user-attachments/assets/217be8e7-2195-49bf-87a6-d8240353afcd)
 ![Screenshot 2024-11-28 220513](https://github.com/user-attachments/assets/ad97fce3-47a3-4e85-8fb2-9bef456efe49)
 ![Screenshot 2024-11-28 220529](https://github.com/user-attachments/assets/1921087c-f4f8-49ce-8ed5-f75bd9bdb33d)
 
